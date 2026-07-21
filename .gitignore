@@ -1,0 +1,4 @@
+*.10x
+.idea
+output/
+.vs/

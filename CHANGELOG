@@ -1,0 +1,7 @@
+---------------------------------------------
+Release: CapySettings 1.0.0 (July 17 2026)
+---------------------------------------------
+* Initial version
+* Functions provided:
+	- CapySettings_ReadString()
+	- CapySettings_
